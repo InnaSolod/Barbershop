@@ -1,0 +1,8 @@
+:root {
+  --white-color: #FFFFFF;
+  --text-color: #555555;
+}
+
+body {
+  color: var(--text-color);
+}/*# sourceMappingURL=main.css.map */
